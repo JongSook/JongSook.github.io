@@ -1,0 +1,32 @@
+<!-- 
+
+<h2>Projects</h2>
+<ul>
+<li><p>Research on Computing Offloading Schemes for Deep Learning Tasks in Edge Computing <br />
+<b>Project Leader</b>; <br />
+the Fundamental Research Funds for the Central Universities of Central South University, No. 512340030 <br /></p>
+</li>
+</ul>
+      
+<ul>
+<li><p>Research on Multi-modal Transportation Recommendation Algorithm with Personalization and Situation Awareness <br />
+<b>Project Leader</b>; <br />
+the Fundamental Research Funds for the Central Universities of Central South University, No. 2021zzts0735 <br /></p>
+</li>
+</ul>
+
+<ul>
+<li><p>Research on Integrated Navigation System for Trucks in Factory <br />
+<b>Project Leader</b>; <br />
+the Innovation Training Grant for Students of Central South University, China, No. GCX2020347Y <br /></p>
+</li>
+</ul>
+
+<ul>
+<li><p>Robot-oriented adaptive intelligent navigation and scene perception <br />
+<b>Member</b>; <br />
+the Fundamental Research Funds for the Central Universities of Central South University, No. 2021zzts0753 <br /></p>
+</li>
+</ul>
+
+-->

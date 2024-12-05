@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="robots" content="index, follow" />
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="keywords" content="Jiahui Sun, 孙佳辉">
+<link rel="stylesheet" href="./jemdoc.css" type="text/css" />
+<script src="jquery.min.js"></script>
+<link rel="shortcut icon" href="./Files/DMU_64.ico">
+<title>Jiahui Sun</title>
+</head>
+
+
+<body>
+
+<a id="home" class="anchor"></a>
+<div id="container">
+<div class="container">
+
+<table class="imgtable">
+    <tr>
+        <td>
+            <a href="./"><img src="./sunjiahui1.png" alt="" height="210px" /></a>&nbsp;
+        </td>
+        <td align="left">
+            <p><a href="./"><font size="4">Jiahui Sun </font>&nbsp<font size="4"; font style="font-family:Microsoft YaHei">孙佳辉</font><font size="4"></font></a><br />
+            <br />
+
+<!--             <i>Postgraduate</i><br /> -->
+            Email: cgjiahui@gmail.com<br />
+<!--             [<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=vXIr3-0AAAAJ" target="_blank">Google Scholar</a>] -->
+            [<a href="https://github.com/cgjiahui" target="_blank">GitHub</a>]<br />
+            <br />
+
+<!--             Vision and Self-Driving Lab,  -->
+            <a href="https://ci.hfut.edu.cn" target="_blank"> School of Computer science and Information Engineering</a>,
+            <a href="https://www.hfut.edu.cn" target="_blank"> Hefei University of Technology</a><br />
+            Hefei University of Technology, Hefei, Anhui, China<br />
+            <class="staffshortcut">
+            <A HREF="#Bio">Bio</A> |
+            <A HREF="#Research and Patent Achievements">Research and Patent Achievements</A> |
+<!--             <A HREF="#Preprints">Preprints</A> | -->
+<!--             <A HREF="#Challenge Reports">Challenge Reports</A> | -->
+<!--             <A HREF="#Awards">Awards</A> | -->
+            <A HREF="#Certificates">Certificates</A>  |
+            <A HREF="#Research Experiences">Research Experiences</A> |
+            <A HREF="#Connections">Connections</A>
+            <br />
+        </td>
+    </tr>
+</table>
+
+<A NAME="Bio"><h2>Bio</h2></A>
+
+I obtained B.Eng in Hefei University(average score 83.36/100) in 2020 and subsequently completed my Master's degree in School of Computer Science and Information Engineering in Hefei University of Technology(88.13/100) in 2023. 
+My supervisors were Dr. <a href="https://wutomwu.github.io/" target="_blank">Wenming Wu</a> and Prof. <a href="http://faculty.hfut.edu.cn/zhenglp/en/index.htm" target="_blank">Liping Zheng</a>.
+During my graduate studies, I also had the privilege of being mentored by Prof. <a href="http://staff.ustc.edu.cn/~lgliu/" target="_blank">Ligang Liu</a> on the research project WallPlan.
+<br>
+<br>	
+My research interests are centered around developing intelligent algorithms to comprehend and generate both 2D and 3D contents. Currently, I am keenly interested in AIGC on 2D and 3D.
+
+
+
+<A NAME="Research and Patent Achievements"><h2>Research and Patent Achievements</h2></A>
+<font size="3"> 
+<p style="text-indent: 0rem;margin-left: 0rem;"><sup>†Equal Contribution, * Corresponding Author(s)</sup></p>
+    <p style="text-indent: +0.5rem;margin-left: 0rem;"><span>
+        [1] <b>Jiahui Sun</b>, Wenming Wu, Ligang Liu, Wenjie Min, Gaofeng Zhang and Liping Zheng, 
+        <a href="https://dl.acm.org/doi/10.1145/3528223.3530135" target="_blank">
+           "WallPlan: synthesizing floorplans by learning to generate wall graphs", </a>
+        <i><b>ACM Transactions on Graphics (SIGGRAPH)</b></i> 2022.
+<!--         &nbsp<a href="https://github.com/Ian0926/DCI-Net" target="_blank">code</a> -->
+    </span></p>
+	
+	<p style="text-indent: +0.5rem;margin-left: 0rem;"><span>
+        [2] <b>Jiahui Sun</b>, Liping Zheng, Gaofeng Zhang and Wenming Wu, 
+<!--         <a href="https://arxiv.org/abs/2211.00859" target="_blank"> -->
+           "BubbleFormer: Bubble Diagram Generation via Dual Transformer Models", 
+<!--         </a> -->
+        <i><b>Computer Graphics Forum (Pacific Graphics)</b></i> 2023 accepted.
+<!--         &nbsp<a href="https://github.com/Ian0926/DCI-Net" target="_blank">code</a> -->
+    </span></p>
+	
+	<p style="text-indent: +0.5rem;margin-left: 0rem;"><span>
+        [3]  
+<!--         <a href="https://arxiv.org/abs/2211.00859" target="_blank"> -->
+           "A method for automatically generating vectorized interior layout floorplans.", 
+<!--         </a> -->
+        <i><b>CN Patent Application 202210493144X</b></i> Patent Pending.
+<!--         &nbsp<a href="https://github.com/Ian0926/DCI-Net" target="_blank">code</a> -->
+    </span></p>
+
+<!-- <ul>
+    <p style="text-indent: -2rem;margin-left: 0rem;"><span>
+        [6] Zhicheng Ji<sup>†</sup>, <b>Huan Zheng</b><sup>†</sup>, Zhao Zhang*, Qiaolin Ye, Yang Zhao and Mingliang Xu, 
+        <a href="https://ian0926.github.io/" target="_blank">
+            Multi-Scale Interaction Network for Low-Light Stereo Image Enhancement, 
+        </a>
+        <i>IEEE Transactions on Consumer Electronics (<b>IEEE TCE</b>)</i> 2023.
+        &nbsp<a href="https://ian0926.github.io/" target="_blank">code</a>
+    </span></p>
+
+</ul> -->
+<!-- delete code -->
+
+	
+
+<!-- <A NAME="Challenge Reports"><h2>Challenge Reports</h2></A>
+<font size="3"> 
+<ul>
+    <p style="text-indent: -2rem;margin-left: 0rem;"><span>
+        [1] <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhang_NTIRE_2023_Challenge_on_Image_Super-Resolution_x4_Methods_and_Results_CVPRW_2023_paper.pdf" target="_blank">
+            NTIRE 2023 challenge on image super-resolution (x4): Methods and results, 
+        </a>
+        <b>CVPR NTIRE</b> 2023.
+    </span></p>
+    <p style="text-indent: -2rem;margin-left: 0rem;"><span>
+        [2] <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf" target="_blank">
+            NTIRE 2023 challenge on efficient super-resolution: Methods and results, 
+        </a>
+        <b>CVPR NTIRE</b> 2023.
+    </span></p>
+</ul>  -->
+
+<A NAME="Certificates"><h2>Certificates</h2></A>
+<font size="3">
+<p style="text-indent: 0rem;margin-left: 0rem;"><b>Journal Reviewer</b></p>
+<ul>
+    <li>Outstanding Teaching Assistant Award of HFUT, 合肥工业大学优秀助教 2022 </li>
+    <li>National Scholarship for Postgraduates, 研究生国家奖学金, 2022 </li>
+    <li>Honor Graduate, University Level, 校优秀毕业生, 2023 </li>
+    <li>Honor Graduate, Provincial Level, 安徽省优秀毕业生, 2023 </li>
+    <li>IELTS: 6.5, 2023</li>
+</ul>
+
+    
+<A NAME=Research Experiences"><h2>Research Experiences</h2></A>
+<font size="3"> 
+<ul>
+	<li>
+		<div style="float:left; text-align:left">Research on floorplan design and optimization for indoor scene modeling. </div><div style="float:right; text-align:right">2020 – 2023</div><br>
+		Supported by NSFC (62102126), Participating<br>
+	</li>
+	
+	<li>
+		<div style="float:left; text-align:left">Study of fast computation algorithms for multi-constrained power graphs. </div><div style="float:right; text-align:right">2020 – 2023</div><br>
+		Supported by NSFC (61972128), Participating<br>
+	</li>
+	
+	<li>
+		<div style="float:left; text-align:left">Horizontal research project: secondary development of automotive wiring harness CAD system. </div><div style="float:right; text-align:right">2021 – 2022</div><br>
+		Participating<br>
+	</li>
+	
+</ul>
+<A NAME="Connections"><h2>Connections</h2></A>
+<font size="3">
+<!-- <p style="text-indent: 0rem;margin-left: 0rem;"><b>Journal Reviewer</b></p> -->
+<ul>
+    <a href="https://ian0926.github.io/" target="_blank">Huan Zheng</a>
+</ul>
+</A>
+    <p style="text-indent: -2rem;margin-left: 0rem;"><span>
+<div>
+    <center>
+    <br />© Jiahui Sun
+    </center>        
+</div>
+    
+<div id="article"></div>
+<div id="back_top">
+<div class="arrow"></div>
+<div class="stick"></div>
+</div>
+
+    </ul> 
+</ul> 
+</body>
+</html>
